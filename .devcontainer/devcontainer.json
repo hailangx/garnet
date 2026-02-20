@@ -1,0 +1,9 @@
+{
+  "name": "ai-devcontainer",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers/features/copilot-cli:1": {},
+    "ghcr.io/devcontainers-extra/features/claude-code:1": {},
+    "ghcr.io/devcontainers/features/azure-cli:1": {}
+  }
+}
